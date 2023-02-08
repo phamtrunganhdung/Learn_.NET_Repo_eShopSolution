@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\ptadung.client\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\.NET-studying\\Setup\\eShopSolution.ApplicationService\\eShopSolution.ApplicationService.csproj",
+      "projectUniqueName": "D:\\Other\\Learn.Net\\Learn_.NET_Repo_eShopSolution\\eShopSolution.ApplicationService\\eShopSolution.ApplicationService.csproj",
       "projectName": "eShopSolution.ApplicationService",
-      "projectPath": "C:\\Repository\\.NET-studying\\Setup\\eShopSolution.ApplicationService\\eShopSolution.ApplicationService.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\.NET-studying\\Setup\\eShopSolution.ApplicationService\\obj\\",
+      "projectPath": "D:\\Other\\Learn.Net\\Learn_.NET_Repo_eShopSolution\\eShopSolution.ApplicationService\\eShopSolution.ApplicationService.csproj",
+      "packagesPath": "C:\\Users\\ptadung.client\\.nuget\\packages\\",
+      "outputPath": "D:\\Other\\Learn.Net\\Learn_.NET_Repo_eShopSolution\\eShopSolution.ApplicationService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ptadung.client\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

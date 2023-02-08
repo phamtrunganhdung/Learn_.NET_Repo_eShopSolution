@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repository\\.NET-studying\\Setup\\eShopSolution.Data\\eShopSolution.Data.csproj": {}
+    "D:\\Other\\Learn.Net\\Learn_.NET_Repo_eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {}
   },
   "projects": {
-    "C:\\Repository\\.NET-studying\\Setup\\eShopSolution.Data\\eShopSolution.Data.csproj": {
+    "D:\\Other\\Learn.Net\\Learn_.NET_Repo_eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repository\\.NET-studying\\Setup\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "projectUniqueName": "D:\\Other\\Learn.Net\\Learn_.NET_Repo_eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
         "projectName": "eShopSolution.Data",
-        "projectPath": "C:\\Repository\\.NET-studying\\Setup\\eShopSolution.Data\\eShopSolution.Data.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Repository\\.NET-studying\\Setup\\eShopSolution.Data\\obj\\",
+        "projectPath": "D:\\Other\\Learn.Net\\Learn_.NET_Repo_eShopSolution\\eShopSolution.Data\\eShopSolution.Data.csproj",
+        "packagesPath": "C:\\Users\\ptadung.client\\.nuget\\packages\\",
+        "outputPath": "D:\\Other\\Learn.Net\\Learn_.NET_Repo_eShopSolution\\eShopSolution.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ptadung.client\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,6 +57,14 @@
               "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[6.0.0, )"
             }

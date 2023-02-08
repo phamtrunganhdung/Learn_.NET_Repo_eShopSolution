@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using eShopSolution.Data.Entities;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Transactions;
+
 
 namespace eShopSolution.Data.Configurations
 {
@@ -18,3 +19,4 @@ namespace eShopSolution.Data.Configurations
             builder.Property(x => x.Id).UseIdentityColumn();
         }
     }
+}
