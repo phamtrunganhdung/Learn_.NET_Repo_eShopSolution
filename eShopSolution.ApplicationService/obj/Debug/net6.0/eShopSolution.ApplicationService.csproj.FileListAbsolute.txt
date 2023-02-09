@@ -1,0 +1,12 @@
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\bin\Debug\net6.0\eShopSolution.ApplicationService.deps.json
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\bin\Debug\net6.0\eShopSolution.ApplicationService.dll
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\bin\Debug\net6.0\eShopSolution.ApplicationService.pdb
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\obj\Debug\net6.0\eShopSolution.ApplicationService.csproj.AssemblyReference.cache
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\obj\Debug\net6.0\eShopSolution.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\obj\Debug\net6.0\eShopSolution.ApplicationService.AssemblyInfoInputs.cache
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\obj\Debug\net6.0\eShopSolution.ApplicationService.AssemblyInfo.cs
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\obj\Debug\net6.0\eShopSolution.ApplicationService.csproj.CoreCompileInputs.cache
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\obj\Debug\net6.0\eShopSolution.ApplicationService.dll
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\obj\Debug\net6.0\refint\eShopSolution.ApplicationService.dll
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\obj\Debug\net6.0\eShopSolution.ApplicationService.pdb
+D:\Other\Learn.Net\Learn_.NET_Repo_eShopSolution\eShopSolution.ApplicationService\obj\Debug\net6.0\ref\eShopSolution.ApplicationService.dll
